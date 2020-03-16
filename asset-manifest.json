@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-emporium/static/css/main.6b93b670.chunk.css",
+    "main.js": "/monsters-emporium/static/js/main.7c53711e.chunk.js",
+    "main.js.map": "/monsters-emporium/static/js/main.7c53711e.chunk.js.map",
+    "runtime-main.js": "/monsters-emporium/static/js/runtime-main.288fe38d.js",
+    "runtime-main.js.map": "/monsters-emporium/static/js/runtime-main.288fe38d.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/monsters-emporium/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/monsters-emporium/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/monsters-emporium/index.html",
+    "precache-manifest.e93e3c60d5b76e6f8b6a8812fbc5c284.js": "/monsters-emporium/precache-manifest.e93e3c60d5b76e6f8b6a8812fbc5c284.js",
+    "service-worker.js": "/monsters-emporium/service-worker.js",
+    "static/css/main.6b93b670.chunk.css.map": "/monsters-emporium/static/css/main.6b93b670.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/monsters-emporium/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.288fe38d.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.6b93b670.chunk.css",
+    "static/js/main.7c53711e.chunk.js"
+  ]
+}
